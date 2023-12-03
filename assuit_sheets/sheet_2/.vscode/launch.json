@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/projects/basics/pr-sol/sheet_2/U",
-      "program": "e:/projects/basics/pr-sol/sheet_2/U/build/Debug/outDebug",
+      "cwd": "e:/projects/basics/pr-sol/assuit_sheets/sheet_2",
+      "program": "e:/projects/basics/pr-sol/assuit_sheets/sheet_2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
